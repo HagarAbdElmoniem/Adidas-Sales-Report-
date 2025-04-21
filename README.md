@@ -1,10 +1,10 @@
 # Adidas-Sales-Report-
 This report features three dashboards analyzing Adidas’s performance:
-1. **Sales Overview** – Total sales, units sold, and profit by method and product.  
-2. **Product Analysis** – Sales and unit trends by product type and channel.  
-3. **Regional Insights** – Performance by region, state, and city.
+1. **Sales Overview** –Highlights total sales ($899.9M), units sold (2M), and operating profit ($332.13M), with breakdowns by sales method, product type, and monthly trends.  
+2. **Product Analysis** – Provides insights into sales and units sold by product category across different years and sales channels, helping identify top-performing product segments.  
+3. **Regional Insights** – Examines regional and state-level performance, units sold by city, and retail activity by sales method, offering a geographical perspective on Adidas’s market reach.
 
-It offers a clear view of sales trends, top products, and regional strengths.
+Together, these dashboards deliver actionable insights into Adidas's sales trends, product success, and regional performance.
 
 ## 📊 Dashboards Preview
 
