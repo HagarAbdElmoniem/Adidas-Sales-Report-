@@ -1,6 +1,6 @@
-# Adidas-Sales-Report-
+# Adidas Sales Report using Power BI
 This report features three dashboards analyzing Adidas’s performance:
-1. **Sales Overview** –Highlights total sales ($899.9M), units sold (2M), and operating profit ($332.13M), with breakdowns by sales method, product type, and monthly trends.  
+1. **Sales Overview** – Highlights total sales ($899.9M), units sold (2M), and operating profit ($332.13M), with breakdowns by sales method, product type, and monthly trends.  
 2. **Product Analysis** – Provides insights into sales and units sold by product category across different years and sales channels, helping identify top-performing product segments.  
 3. **Regional Insights** – Examines regional and state-level performance, units sold by city, and retail activity by sales method, offering a geographical perspective on Adidas’s market reach.
 
